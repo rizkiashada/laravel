@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media (max-width:768px){
+    .mobile-padding{
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+    .images1{
+        width: 100%;
+        height: 80%;
+        
+    }
+}
+
